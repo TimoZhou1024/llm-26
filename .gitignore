@@ -211,3 +211,4 @@ __marimo__/
 *.arpa
 kenlm
 gpt-2
+.DS_Store
